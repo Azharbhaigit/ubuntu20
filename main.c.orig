@@ -2,9 +2,11 @@ pseudo code
 {
 Initial Function()
 {
+<<<<<<< HEAD
 Added from Line1
+=======
 Added line from f2
-
+>>>>>>> f2
 }
 
 Initial Security()
