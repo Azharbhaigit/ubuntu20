@@ -2,7 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+Added from Line1
 }
 
 Initial Security()
